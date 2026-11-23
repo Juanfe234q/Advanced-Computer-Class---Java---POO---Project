@@ -1,0 +1,9 @@
+EQ001*Osciloscopio*ELECTRONICA*Laboratorio de Electronica*DISPONIBLE*2500000*3*Equipo para visualizar señales electricas
+EQ002*Multimetro*MEDICION*Laboratorio de Electronica*DISPONIBLE*350000*2*Instrumento para medir magnitudes electricas
+EQ003*Impresora 3D*FABRICACION*Laboratorio de Manufactura*EN_USO*4200000*5*Equipo para fabricacion de prototipos
+EQ004*Brazo Robotico*ROBOTICA*Laboratorio de Robotica*EN_MANTENIMIENTO*8500000*6*Equipo para practicas de automatizacion
+EQ005*Computador*COMPUTO*Laboratorio de Informatica*DISPONIBLE*3200000*1*Equipo para programacion
+EQ006*Microscopio*OPTICA*Laboratorio de Fisica*DADO_DE_BAJA*1800000*2*Equipo para observacion de muestras
+EQ007*Taladro*HERRAMIENTAS*Laboratorio de Manufactura*DISPONIBLE*500000*2*Equipo de perforacion
+EQ001*Osciloscopio*ELECTRONICA*Laboratorio de Electronica*DISPONIBLE*2500000*3*Equipo duplicado
+EQ008*Fuente de voltaje*ELECTRONICA*Laboratorio de Electronica*DISPONIBLE*450000*0*Equipo para alimentar circuitos

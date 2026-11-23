@@ -1,0 +1,3 @@
+202312890*Andrés Morales*ESTUDIANTE*Ingeniería Mecánica*7*clave123
+202110045*Laura Rojas*MONITOR*Ingeniería Electrónica*9*monitor456
+900001*Carlos Pérez*ADMINISTRADOR*N/A*0*admin789
